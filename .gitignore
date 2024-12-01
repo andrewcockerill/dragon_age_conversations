@@ -158,6 +158,7 @@ cython_debug/
 *.csv
 *.wav
 *.txt
+!requirements.txt
 
 # Executables
 *.exe
